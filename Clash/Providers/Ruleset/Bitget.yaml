@@ -1,0 +1,9 @@
+payload:
+  # 内容：Bitget
+  # 数量：5条
+  - DOMAIN,bitget.comscoreresearch.com
+  - DOMAIN-SUFFIX,bitget.com
+  - DOMAIN-SUFFIX,bitgetapp.com
+  - DOMAIN-SUFFIX,bitgetapps.com
+  - DOMAIN-SUFFIX,bitgetimg.com
+  - DOMAIN-SUFFIX,bitget.fit
